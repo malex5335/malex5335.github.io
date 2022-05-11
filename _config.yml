@@ -1,4 +1,12 @@
-theme: minima
-logo: /assets/img/logo.png
 title: Portfolio of Maximilian Rich
+author:
+  name: Maximilian Rich
+  email: maximilian.rich@online.de
 description: A collection of my private projects
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    github: malex5335
+plugins:
+  - jekyll-seo-tag
