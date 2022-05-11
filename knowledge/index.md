@@ -1,4 +1,4 @@
-## Technology & Tools
+## Knwoledge
 
 ### Professional Experience
 
