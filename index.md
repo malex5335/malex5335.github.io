@@ -1,13 +1,13 @@
-# Header 1
-## Header 2
-### Header 3
+# About Me
+My Name is Maximilian Rich
 
-- Bulleted
-- List
+## Job Status
+**Not** looking for Offers
 
-1. Numbered
-2. List
+## Currently learning
 
-**Bold** and _Italic_ and `Code` text
+## Currently reading
 
-[Link](url) and ![Image](src)
+## Professional Experience
+
+## Self studied
