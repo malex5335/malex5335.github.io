@@ -1,6 +1,6 @@
-## Knwoledge
+# Knwoledge
 
-### Professional Experience
+## Professional Experience
 
 | Programming | DB        | Dev-Ops | Other    |
 |-------------|-----------|---------|----------|
@@ -9,7 +9,7 @@
 | Vue.js      |           | Jenkins |          |
 | PHP         |           |         |          |
 
-### Self-taught
+## Self-taught
 
 | Programming | DB        | Dev-Ops | Other                                                                                                    |
 |-------------|-----------|---------|----------------------------------------------------------------------------------------------------------|

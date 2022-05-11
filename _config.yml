@@ -6,7 +6,7 @@ description: A collection of my private projects
 theme: minima
 minima:
   skin: dark
-  social_links:
-    github: malex5335
+  show_excerpts: true
+  github_username: malex5335
 plugins:
   - jekyll-seo-tag

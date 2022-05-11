@@ -1,6 +1,6 @@
-## Literature
+# Literature
 
-### Currently reading
+## Currently reading
 
 ![David Thomas & Andrew Hunt - The Pragmatic Programmer](../assets/img/david_thomas_andrew_hunt_-_the_pragmatic_programmer.jpg)<br>
 [David Thomas & Andrew Hunt - The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
