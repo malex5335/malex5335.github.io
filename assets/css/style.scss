@@ -2,11 +2,3 @@
 ---
 
 @import "jekyll-theme-minimal";
-
-.site-title::before {
-  content: url("/assets/images/logo.png");
-  display: inline-block;
-  position: relative;
-  width: 37px;
-  top: 5px;
-}
