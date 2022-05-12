@@ -1,6 +1,7 @@
 title: Portfolio of Maximilian Rich
 author: Maximilian Rich
 email: maximilian.rich@online.de
+github_username: malex5335
 description: >
   My portfolio displaying projects I've worked on,
   Skills I've learned as well as a collection of Posts
@@ -9,6 +10,5 @@ theme: minima
 minima:
   skin: dark
   show_excerpts: true
-  github_username: malex5335
 plugins:
   - jekyll-seo-tag
