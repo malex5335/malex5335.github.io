@@ -30,7 +30,7 @@ making 100% almost unachievable.
 | ![NodeJs - 30%](https://progress-bar.dev/30/?title=NodeJs%20%20%20%20%20) | **2+ months**<br>REST-Client, MongoDB | ✅ |
 | ![Kotlin - 25%](https://progress-bar.dev/25/?title=Kotlin%20%20%20%20%20) | **1+ months**<br>Android-App | ✅ |
 | ![PHP - 20%](https://progress-bar.dev/20/?title=PHP%20%20%20%20%20%20%20%20) | **1+ years**<br>Wordpress-Templates<br>**PHP 5.4** | 🔳 |
-| ![C - 15%](https://progress-bar.dev/15/?title=C%20%20%20%20%20%20%20%20%20%20) | **6+ months**<br>School | ✅ |
+| ![C - 15%](https://progress-bar.dev/15/?title=C%20%20%20%20%20%20%20%20%20%20) | **6+ months**<br>School | 🔳 |
 | ![C# - 10%](https://progress-bar.dev/10/?title=C%23%20%20%20%20%20%20%20%20%20) | **1+ months**<br>Retro-Game Snake | ✅ |
 
 ### IDE
