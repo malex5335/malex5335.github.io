@@ -5,7 +5,7 @@
 The progress displayed here is a personal score describing the perceived progress in an exponential but definite scoring system;
 making 100% almost unachievable.
 
-📅 **12.05.2022**<br>
+📅 Last updated: **12.05.2022**<br>
 📌 **Skill was primarily learned in free time and self-taught**<br>
 
 ## Languages
