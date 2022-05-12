@@ -1,7 +1,5 @@
 # Bookshelf
 
-## Overview
-
 |  | Status | Rating / Review |
 |---|---|---|
 | [![David Thomas & Andrew Hunt - The Pragmatic Programmer](../assets/img/the_pragmatic_programmer.jpg)](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | ![25%](https://progress-bar.dev/25/) | ❤️️❤️❤️❤️🖤<br>Review pending |
