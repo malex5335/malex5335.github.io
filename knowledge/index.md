@@ -1,14 +1,14 @@
 # Knowledge
 
 📅 **12.05.2022**<br>
-📌 Skill was learned primarily in free time by creating private projects
+📌 Skill was primarily learned in free time by creating private projects
 
 ## Languages
 
 |  | Notes |
 |---|---|
 | ![German - 100%](https://progress-bar.dev/100/?title=German%20%20) | Native Speaker |
-| ![English - 100%](https://progress-bar.dev/100/?title=English%20) | fluent in speaking, reading and writing<br>**11+ years** self study<br>**9+ years** business<br>**6+ years** school |
+| ![English - 100%](https://progress-bar.dev/100/?title=English%20) | fluent in speaking, reading and writing<br>**11+ years** self study<br>**9+ years** business<br>**7+ years** school |
 | ![Japanese - 25%](https://progress-bar.dev/25/?title=Japanese) | basic grammar, good pronunciation, **~400** common used words<br>**2+ years** self study |
 | ![French - 10%](https://progress-bar.dev/10/?title=French%20%20) | basic grammar, numbers **~50** common used words<br>**3+ years** school |
 
