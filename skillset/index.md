@@ -4,7 +4,7 @@
 
 The progress displayed here is a personal score describing the perceived progress in an exponential but definite scoring system;
 making 100% almost unachievable.<br>
-For a better understanding of what this percentage encapsulates I've written down some notes containing some popular Buzzwords with which I can work.
+For a better understanding of what this percentage encapsulates I've written down some notes containing popular Buzzwords with which I can work.
 
 📅 Last updated: **12.05.2022**<br>
 📌 **Skill was primarily learned in free time and self-taught**<br>
