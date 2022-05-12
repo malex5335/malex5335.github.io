@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-    {%- if content -%}
+    {%- if !content.empty -%}
     <div class="post-content">
         {{ content }}
     </div>
