@@ -11,7 +11,12 @@ layout: default
     {%- endif -%}
 
     {%- if site.posts.size > 0 -%}
+    {%- if content.empty -%}
     <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
+    {%- endif -%}
+    {%- if !content.empty -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {%- endif -%}
     <ul class="post-list">
         {%- for post in site.posts -%}
         <li>

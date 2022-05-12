@@ -5,7 +5,7 @@
 @import "minima/initialize";*/
 @import "minima";
 
-.post-content h1, .post-list-heading {
+.post-content h1, h1.post-list-heading {
   margin-bottom: $spacing-unit;
   @include relative-font-size(2.625);
   letter-spacing: -1px;
