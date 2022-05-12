@@ -1,16 +1,21 @@
 # Knowledge
 
+## Disclaimer
+
+The progress displayed here is a personal score describing the perceived progress in an exponential but definite scoring system;
+making 100% almost unachievable.
+
 📅 **12.05.2022**<br>
-📌 Skill was primarily learned in free time by creating private projects
+📌 **Skill was primarily learned in free time and self-taught**<br>
 
 ## Languages
 
-|  | Notes |
-|---|---|
-| ![German - 100%](https://progress-bar.dev/100/?title=German%20%20) | Native Speaker |
-| ![English - 100%](https://progress-bar.dev/100/?title=English%20) | fluent in speaking, reading and writing<br>**11+ years** self study<br>**9+ years** business<br>**7+ years** school |
-| ![Japanese - 25%](https://progress-bar.dev/25/?title=Japanese) | basic grammar, good pronunciation, **~400** common used words<br>**2+ years** self study |
-| ![French - 10%](https://progress-bar.dev/10/?title=French%20%20) | basic grammar, numbers **~50** common used words<br>**3+ years** school |
+|  | Notes | 📌 |
+|---|---|---|
+| ![German - 100%](https://progress-bar.dev/100/?title=German%20%20) | Native Speaker | 🔳 |
+| ![English - 100%](https://progress-bar.dev/100/?title=English%20) | fluent in speaking, reading and writing<br>**11+ years** self study<br>**9+ years** business<br>**7+ years** school | ✅ |
+| ![Japanese - 25%](https://progress-bar.dev/25/?title=Japanese) | basic grammar, good pronunciation, **~400** common used words<br>**2+ years** self study | ✅ |
+| ![French - 10%](https://progress-bar.dev/10/?title=French%20%20) | basic grammar, numbers **~50** common used words<br>**3+ years** school | 🔳 |
 
 ## Programming
 
@@ -18,8 +23,8 @@
 |---|---|---|
 | ![Java - 80%](https://progress-bar.dev/80/?title=Java%20%20%20%20%20%20%20) | **8+ years**<br>JSF, JSP, Lambda, Streams, JUnit, AssertJ, Selenium<br>**Java 6 - 11** | 🔳 |
 | ![Java Spring - 30%](https://progress-bar.dev/30/?title=Java%20Spring) | **8+ months**<br>Usage, Appending new Components, Mocking<br>**Spring 5.0.7** | 🔳 |
-| ![Maven - 50%](https://progress-bar.dev/50/?title=Maven%20%20%20%20%20%20) | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config, Custom Repositories | 🔳 |
-| ![Vue.js - 35%](https://progress-bar.dev/35/?title=Vue.js%20%20%20%20%20) | **6+ months**<br>REST-Calls, Custom-Components, Endless-Scroll, Local Storage<br>**Vue 3** | 🔳 |
+| ![Maven - 50%](https://progress-bar.dev/50/?title=Maven%20%20%20%20%20%20) | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config | 🔳 |
+| ![Vue.js - 35%](https://progress-bar.dev/35/?title=Vue.js%20%20%20%20%20) | **6+ months**<br>REST-Calls, Custom-Components, Local Storage<br>**Vue 3** | 🔳 |
 | ![Gradle - 30%](https://progress-bar.dev/30/?title=Gradle%20%20%20%20%20) | **4+ months**<br>Project-Setup, Build | ✅ |
 | ![Python - 30%](https://progress-bar.dev/30/?title=Python%20%20%20%20%20) | **3+ months**<br>Scripts, IO-Operations, Chess-Game | ✅ |
 | ![NodeJs - 30%](https://progress-bar.dev/30/?title=NodeJs%20%20%20%20%20) | **2+ months**<br>REST-Client, MongoDB | ✅ |
