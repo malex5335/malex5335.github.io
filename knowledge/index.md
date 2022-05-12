@@ -21,17 +21,17 @@ making 100% almost unachievable.
 
 |  | Notes | 📌 |
 |---|---|---|
-| ![Java - 80%](https://progress-bar.dev/80/?title=Java%20%20%20%20%20%20%20) | **8+ years**<br>JSF, JSP, Lambda, Streams, JUnit, AssertJ, Selenium<br>**Java 6 - 11** | 🔳 |
-| ![Java Spring - 30%](https://progress-bar.dev/30/?title=Java%20Spring) | **8+ months**<br>Usage, Appending new Components, Mocking<br>**Spring 5.0.7** | 🔳 |
-| ![Maven - 50%](https://progress-bar.dev/50/?title=Maven%20%20%20%20%20%20) | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config | 🔳 |
-| ![Vue.js - 35%](https://progress-bar.dev/35/?title=Vue.js%20%20%20%20%20) | **6+ months**<br>REST-Calls, Custom-Components, Local Storage<br>**Vue 3** | 🔳 |
-| ![Gradle - 30%](https://progress-bar.dev/30/?title=Gradle%20%20%20%20%20) | **4+ months**<br>Project-Setup, Build | ✅ |
-| ![Python - 30%](https://progress-bar.dev/30/?title=Python%20%20%20%20%20) | **3+ months**<br>Scripts, IO-Operations, Chess-Game | ✅ |
-| ![NodeJs - 30%](https://progress-bar.dev/30/?title=NodeJs%20%20%20%20%20) | **2+ months**<br>REST-Client, MongoDB | ✅ |
-| ![Kotlin - 25%](https://progress-bar.dev/25/?title=Kotlin%20%20%20%20%20) | **1+ months**<br>Android-App | ✅ |
-| ![PHP - 20%](https://progress-bar.dev/20/?title=PHP%20%20%20%20%20%20%20%20) | **1+ years**<br>Wordpress-Templates<br>**PHP 5.4** | 🔳 |
-| ![C - 15%](https://progress-bar.dev/15/?title=C%20%20%20%20%20%20%20%20%20%20) | **6+ months**<br>School | 🔳 |
-| ![C# - 10%](https://progress-bar.dev/10/?title=C%23%20%20%20%20%20%20%20%20%20) | **1+ months**<br>Retro-Game Snake | ✅ |
+| **Java**<br>![80%](https://progress-bar.dev/80/) | **8+ years**<br>JSF, JSP, Lambda, Streams, JUnit, AssertJ, Selenium<br>**Java 6 - 11** | 🔳 |
+| **Java-Spring**<br>![30%](https://progress-bar.dev/30/) | **8+ months**<br>Usage, Appending new Components, Mocking<br>**Spring 5.0.7** | 🔳 |
+| **Maven**<br>![50%](https://progress-bar.dev/50/) | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config | 🔳 |
+| **Vue.JS**<br>![35%](https://progress-bar.dev/35/) | **6+ months**<br>REST-Calls, Custom-Components, Local Storage<br>**Vue 3** | 🔳 |
+| **Gradle**<br>![30%](https://progress-bar.dev/30/) | **4+ months**<br>Project-Setup, Build | ✅ |
+| **Pyhton**<br>![30%](https://progress-bar.dev/30/) | **3+ months**<br>Scripts, IO-Operations, Chess-Game | ✅ |
+| **NodeJs**<br>![30%](https://progress-bar.dev/30/) | **2+ months**<br>REST-Client, MongoDB | ✅ |
+| **Kotlin**<br>![25%](https://progress-bar.dev/25/) | **1+ months**<br>Android-App | ✅ |
+| **PHP**<br>![20%](https://progress-bar.dev/20/) | **1+ years**<br>Traineeship, Wordpress-Templates<br>**PHP 5.4** | 🔳 |
+| **C**<br>![15%](https://progress-bar.dev/15/) | **6+ months**<br>School | 🔳 |
+| **C#**<br>![10%](https://progress-bar.dev/10/) | **1+ months**<br>Retro-Game Snake | ✅ |
 
 ### IDE
 
