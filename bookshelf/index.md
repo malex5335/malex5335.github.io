@@ -1,6 +1,6 @@
 # Bookshelf
 
-|  | Status | Rating / Review |
+|  | Finished | Rating / Review |
 |---|---|---|
 | [![David Thomas & Andrew Hunt - The Pragmatic Programmer](../assets/img/the_pragmatic_programmer.jpg)](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | ![25%](https://progress-bar.dev/25/) | ❤️️❤️❤️❤️🖤<br>Review pending |
 | [![Vaughn Vernon - Implementing Domain-Driven Design](../assets/img/implementing_ddd.jpg)](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/) | ![0%](https://progress-bar.dev/0/) | ️🖤🖤🖤🖤🖤<br>Review pending |
