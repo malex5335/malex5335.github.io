@@ -1,6 +1,9 @@
 I want to lay down some problems I've experienced with a bunch of checks we set as a quasi standard.  
 Also, my attempts to fix them and a personal conclusion on how I want to do reviews from now on  
-(I'm sure this will change with more experience on the matter).
+(I'm sure this will change with more experience on the matter).  
+I also recommend reading
+[What to Look for in a Code Review](https://www.goodreads.com/book/show/28942299-what-to-look-for-in-a-code-review)
+written by Trisha Gee, it answers a lot of questions especially towards antipatterns in Source-Code to look out for.
 
 ## Where am I coming from?
 
