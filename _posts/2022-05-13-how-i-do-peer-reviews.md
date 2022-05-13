@@ -1,5 +1,3 @@
-## What do I write about?
-
 I want to lay down some problems I've experienced with a bunch of checks we set as a quasi standard.  
 Also, my attempts to fix them and a personal conclusion on how I want to do reviews from now on  
 (I'm sure this will change with more experience on the matter).
