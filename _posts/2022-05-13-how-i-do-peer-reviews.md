@@ -57,13 +57,13 @@ If you show someone two identical lines of code and suggest extracting them to a
 that it won't take a long to come up with why this can't be done and those are not the same code from a
 technical point of view:
 * **Now** the logic implies that username is written that way, but it could change in the future
-* Calling this one username here and there is just an accident
+* Calling this one username and having the same pattern for it in both/all cases is just an accident
 * Those are 2 separate classes, so they need to implement their logic separately
 * I like to search and replace when something has to change and that way I know which parts are bound together
 
 Those and other reasons are often given and by their own one could argue that these are valid reasons.  
 Maybe its personal preference but the moment I see the same 5 lines of code written in over 3 classes, which
-over time are always changed in the same exact way, I start to get furious.
+over time are always changed in the same exact way, I get furious.
 
 I would advise everybody to look for redundant parts of logic and although it's not recommended eliminating
 all duplicate lines one could try and test if that's a good idea.  
