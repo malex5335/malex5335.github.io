@@ -1,4 +1,5 @@
 ### What do I write about?
+
 I want to lay down some problems I've experienced with a bunch of checks we set as a quasi standard.  
 Also, my attempts to fix them and a personal conclusion on how I want to do reviews from now on  
 (I'm sure this will change with more experience on the matter).
@@ -47,7 +48,7 @@ That way you take away the pressure to "_make a wrong decision_" and get better 
 
 #### redundancy
 
-"_I already did this, you can find it here_" is something we'd like to hear from out peers, because duplicated
+"_I already did this, you can find it here_" is something we'd like to hear from our peers, because duplicated
 logic in general should almost always be prevented.  
 The reason I'm unhappy with this check - or at least how we ended up doing it - is that in our team we tend to
 define redundant logic a bit loose.  
@@ -76,7 +77,7 @@ As a rule of thumb I say to myself "2 times is ok, 3 times is worrying" and as f
 This one is highly specific, but I recommend that you at least pay attention while doing peer reviews.  
 It all began with our customer not wanting to reinvent the wheel everytime with a new project, but have people
 be able to work with the code produced - yeah that one was new to me as far as project requirements go.  
-And after the big Code Review we got, one thing was clear: **the code was a maintenance hell**.  
+And after the big Code Review we got, one thing was clear: **the code is a maintenance hell**.  
 To fix this we simply said: "_Well, in future just pay attention, that anyone would be able to change your code_".  
 Aight, that one should be easy! - Surprise just by saying that you did miss a really important point in
 the discussion: "What is readable?"  
