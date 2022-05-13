@@ -1,10 +1,10 @@
-### What do I write about?
+## What do I write about?
 
 I want to lay down some problems I've experienced with a bunch of checks we set as a quasi standard.  
 Also, my attempts to fix them and a personal conclusion on how I want to do reviews from now on  
 (I'm sure this will change with more experience on the matter).
 
-### Where am I coming from?
+## Where am I coming from?
 
 In a project I'm currently working in we choose to do Peer-Code-Reviews in order to better understand
 and check the code for bugs.  
@@ -25,9 +25,9 @@ We individually have a different understanding of each of those checks, that we 
 or at least fail to in every attempt so far.  
 Leading us all - myself at least - to simply tick the box and keep on coding.  
 
-### The Checks
+## The Checks
 
-#### side effect on existing code
+### side effect on existing code
 
 We had a great debate: "_should we check weather the business logic is impacted in a negative way by
 the change we see?_"  
@@ -46,7 +46,7 @@ Therefore, having this in a check-list is ok, so long as you not force the revie
 that the system is safe or scold them if they haven't warned you about stuff that loosely fits in that category.  
 That way you take away the pressure to "_make a wrong decision_" and get better results in the end.
 
-#### redundancy
+### redundancy
 
 "_I already did this, you can find it here_" is something we'd like to hear from our peers, because duplicated
 logic in general should almost always be prevented.  
@@ -72,7 +72,7 @@ certain parts of our business case.
 As a rule of thumb I say to myself "2 times is ok, 3 times is worrying" and as for the fear of change:
 "Code has to change to get better, whether I really need this separated is up to time, not my gut feelings".
 
-#### readability and maintenance
+### readability and maintenance
 
 This one is highly specific, but I recommend that you at least pay attention while doing peer reviews.  
 It all began with our customer not wanting to reinvent the wheel everytime with a new project, but have people
@@ -97,30 +97,30 @@ the readability drastically.
 Making Pair-Programming one of the best measures against the demise of code
 quality - at least in my humble opinion.
 
-#### consistency
+### consistency
 
 (coming soon)
 
-####  performance
+###  performance
 
 (coming soon)
 
-####  error and exception handling
+###  error and exception handling
 
 (coming soon)
 
-####  simplicity
+###  simplicity
 
 (coming soon)
 
-####  unit tests
+###  unit tests
 
 (coming soon)
 
-### Find an all fits everytime solution
+## Find an all fits everytime solution
 
 (coming soon)
 
-### Conclusion
+## Conclusion
 
 (coming soon)
