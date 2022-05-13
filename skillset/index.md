@@ -2,15 +2,15 @@
 
 ## Disclaimer
 
-Due to the progress bar describing a personal and perceived progress I've provided a little description on how to read them based on colors.<br>
+Due to the progress bar describing a personal and perceived progress I've provided a little description on how to read them based on colors.      
 Also there are some notes written down containing popular Buzzwords with which I can work.
 
-<span style="color:#5cb85c">**You can trust my expertise**</span><br>
-<span style="color:#f0ad4e">**I'm confident that I can find a solution**</span><br>
+<span style="color:#5cb85c">**You can trust my expertise**</span>      
+<span style="color:#f0ad4e">**I'm confident that I can find a solution**</span>      
 <span style="color:#d9534f">**I'm probably not able to solve this alone**</span>
 
-📅 Last updated: **12.05.2022**<br>
-📌 **Skill was primarily learned in free time and self-taught**<br>
+📅 Last updated: **12.05.2022**      
+📌 **Skill was primarily learned in free time and self-taught**      
 
 ## Languages
 
