@@ -28,9 +28,9 @@ Also there are some notes written down containing popular Buzzwords with which I
 | **Java**<br>![80%](https://progress-bar.dev/80/)        | **8+ years**<br>JSF, JSP, Lambda, Streams, JUnit, AssertJ, Selenium<br>**Java 6 - 11** |     |
 | **Java-Spring**<br>![30%](https://progress-bar.dev/30/) | **8+ months**<br>Usage, Appending new Components, Mocking<br>**Spring 5.0.7**          |     |
 | **Maven**<br>![50%](https://progress-bar.dev/50/)       | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config                      |     |
+| **Pyhton**<br>![30%](https://progress-bar.dev/40/)      | **3+ months**<br>Scripts, IO-Operations, TicTacToe, Chess-Game                         | 📌  |
 | **Vue.JS**<br>![35%](https://progress-bar.dev/35/)      | **6+ months**<br>REST-Calls, Custom-Components, Local Storage<br>**Vue 3**             |     |
 | **Gradle**<br>![30%](https://progress-bar.dev/30/)      | **4+ months**<br>Project-Setup, Build                                                  | 📌  |
-| **Pyhton**<br>![30%](https://progress-bar.dev/30/)      | **3+ months**<br>Scripts, IO-Operations, Chess-Game                                    | 📌  |
 | **NodeJs**<br>![30%](https://progress-bar.dev/30/)      | **2+ months**<br>REST-Client, MongoDB                                                  | 📌  |
 | **Kotlin**<br>![25%](https://progress-bar.dev/25/)      | **1+ months**<br>Android-App                                                           | 📌  |
 | **PHP**<br>![20%](https://progress-bar.dev/20/)         | **1+ years**<br>Traineeship, Wordpress-Templates<br>**PHP 5.4**                        |     |
