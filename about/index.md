@@ -1,6 +1,6 @@
 # About Me
 
-Maximilian Rich, born on the 25.02.1995 in Grimma (Saxony, Germany).<br>
+Maximilian Rich, born on the 25.02.1995 in Grimma (Saxony, Germany).  
 My Hobbies include:
 * riding the bicycle
 * going for a walk or hiking

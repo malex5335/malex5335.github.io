@@ -56,7 +56,7 @@ Also there are some notes written down containing popular Buzzwords with which I
 
 |                                                     | Notes                                                                       |     |
 |-----------------------------------------------------|-----------------------------------------------------------------------------|-----|
-| **GitLab**<br>![55%](https://progress-bar.dev/55/)  | **6+ months**<br>CI/CD (Build, Test, Sonar, Deploy)<br>**GitLab 14.4.1-ee** |     |
+| **GitLab**<br>![45%](https://progress-bar.dev/45/)  | **6+ months**<br>CI/CD (Build, Test, Sonar, Deploy)<br>**GitLab 14.4.1-ee** |     |
 | **Jenkins**<br>![35%](https://progress-bar.dev/35/) | **2+ years**<br>Job-Configure, Deployment-Script<br>**Jenkins 2.289**       |     |
 
 ## Video-Editing
