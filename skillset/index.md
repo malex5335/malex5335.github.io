@@ -19,7 +19,7 @@ Also there are some notes written down containing popular Buzzwords with which I
 | **German**<br>![100%](https://progress-bar.dev/100/)  | Native Speaker                                                                                                      |     |
 | **English**<br>![100%](https://progress-bar.dev/100/) | fluent in speaking, reading and writing<br>**11+ years** self study<br>**9+ years** business<br>**7+ years** school | 📌  |
 | **Japanese**<br>![25%](https://progress-bar.dev/25/)  | basic grammar, good pronunciation, **~400** common used words<br>**2+ years** self study                            | 📌  |
-| **French**<br>![10%](https://progress-bar.dev/10/)    | basic grammar, numbers **~50** common used words<br>**3+ years** school                                             |     |
+| **French**<br>![5%](https://progress-bar.dev/5/)      | basic grammar, numbers **~50** common used words<br>**3+ years** school                                             |     |
 
 ## Programming
 
@@ -29,7 +29,7 @@ Also there are some notes written down containing popular Buzzwords with which I
 | **Java-Spring**<br>![30%](https://progress-bar.dev/30/) | **8+ months**<br>Usage, Appending new Components, Mocking<br>**Spring 5.0.7**          |     |
 | **Maven**<br>![50%](https://progress-bar.dev/50/)       | **3+ years**<br>Dependencies, Plugin-Config, Build/Release-Config                      |     |
 | **Vue.JS**<br>![35%](https://progress-bar.dev/35/)      | **6+ months**<br>REST-Calls, Custom-Components, Local Storage<br>**Vue 3**             |     |
-| **Gradle**<br>![30%](https://progress-bar.dev/30/)      | **4+ months**<br>Project-Setup, Build                                                  | 📌  |
+| **Gradle**<br>![35%](https://progress-bar.dev/35/)      | **4+ months**<br>Project-Setup, Build                                                  | 📌  |
 | **Pyhton**<br>![30%](https://progress-bar.dev/30/)      | **3+ months**<br>Scripts, IO-Operations, Chess-Game                                    | 📌  |
 | **NodeJs**<br>![30%](https://progress-bar.dev/30/)      | **2+ months**<br>REST-Client, MongoDB                                                  | 📌  |
 | **Kotlin**<br>![25%](https://progress-bar.dev/25/)      | **1+ months**<br>Android-App                                                           | 📌  |
@@ -56,7 +56,7 @@ Also there are some notes written down containing popular Buzzwords with which I
 
 |                                                     | Notes                                                                       |     |
 |-----------------------------------------------------|-----------------------------------------------------------------------------|-----|
-| **GitLab**<br>![45%](https://progress-bar.dev/45/)  | **6+ months**<br>CI/CD (Build, Test, Sonar, Deploy)<br>**GitLab 14.4.1-ee** |     |
+| **GitLab**<br>![55%](https://progress-bar.dev/55/)  | **6+ months**<br>CI/CD (Build, Test, Sonar, Deploy)<br>**GitLab 14.4.1-ee** |     |
 | **Jenkins**<br>![35%](https://progress-bar.dev/35/) | **2+ years**<br>Job-Configure, Deployment-Script<br>**Jenkins 2.289**       |     |
 
 ## Video-Editing

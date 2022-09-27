@@ -12,6 +12,15 @@ My Hobbies include:
 ## Career
 
 <dl>
+    <dt>since 10/2022</dt>
+    <dd>
+        <i>Software-Consultant for Java-Development</i>
+    </dd>
+    <dd><strong>
+            <a href="https://www.opitz-consulting.com/" target="_blank">Opitz Consulting GmbH</a>
+        </strong><br>
+        Landwehr 2, 22087 Hamburg
+    </dd>
     <dt>09/2015 - 09/2022</dt>
     <dd>
         <i>Software developer with focus on Java and WebServices</i>
