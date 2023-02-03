@@ -3,8 +3,9 @@
 Maximilian Rich, born on the 25.02.1995 in Grimma (Saxony, Germany).  
 My Hobbies include:
 * riding the bicycle
+* AR-Climbing & Bouldering
 * going for a walk or hiking
-* learn new languages (programming and human ones)
+* learn new languages (coded & spoken ones)
 * develop and play games
 * learn new technologies
 * watching movies, series and documentations
@@ -17,13 +18,13 @@ My Hobbies include:
         <i>Software-Consultant for Java-Development</i>
     </dd>
     <dd><strong>
-            <a href="https://www.opitz-consulting.com/" target="_blank">Opitz Consulting GmbH</a>
+            <a href="https://www.opitz-consulting.com/" target="_blank">Opitz Consulting Deutschland GmbH</a>
         </strong><br>
         Landwehr 2, 22087 Hamburg
     </dd>
     <dt>09/2015 - 09/2022</dt>
     <dd>
-        <i>Software developer with focus on Java and WebServices</i>
+        <i>Software-Developer with focus on Java and Web-Services</i>
     </dd>
     <dd><strong>
             <a href="https://www.planet-ic.de/" target="_blank">PLANET IC GmbH</a>
